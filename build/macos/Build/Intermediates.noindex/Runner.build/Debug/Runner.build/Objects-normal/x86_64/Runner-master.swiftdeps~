@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "0b67bce169c7a96cb309045500a8713e90641ec04957972f0c710d2e89db7724"
+build_start_time: [1675680396, 461177825]
+build_end_time: [1675680396, 761106014]
+inputs:
+  "/Users/jasminelaihweeying/Flutter project/furniture_ecommerce_ui/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1675680310, 814965724]
+  "/Users/jasminelaihweeying/Flutter project/furniture_ecommerce_ui/macos/Runner/AppDelegate.swift": !private [1664954755, 868887901]
+  "/Users/jasminelaihweeying/Flutter project/furniture_ecommerce_ui/macos/Runner/MainFlutterWindow.swift": !private [1664954755, 874330997]
